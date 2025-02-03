@@ -1,1 +1,1 @@
-# -Determining-Air-Quality-Index
+# Determining Air Quality Index
